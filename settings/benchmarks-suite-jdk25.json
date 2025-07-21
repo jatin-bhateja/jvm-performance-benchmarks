@@ -405,6 +405,12 @@
     },
     {
       "name": "ZonedDateTimeBenchmark"
+    },
+    {
+      "name": "ColumnarDBFilterBenchmark"
+    },
+    {
+      "name": "VectorizedScanOperationBenchmark"
     }
   ]
 }
